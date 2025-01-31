@@ -1,0 +1,6 @@
+mcpServers:
+  - name: Playwright
+    command: npx
+    args:
+      - -y
+      - @executeautomation/playwright-mcp-server
